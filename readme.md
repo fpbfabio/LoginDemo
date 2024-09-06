@@ -2,10 +2,12 @@
 
 This is a demo application that basically shows a dummy login screen.
 
-The correct input for login is
+The correct input for login is>
 `dummy@dummy.com`
-For password is
+
+For password is:
 `dummy`
+
 If you provide the correct login credentials you should see screen saying:
 
 "This is the Welcome screen"
